@@ -1,0 +1,1 @@
+<livewire:item-checkbox-list :key="$getRecord()->id" :recordId="$getRecord()->id" />

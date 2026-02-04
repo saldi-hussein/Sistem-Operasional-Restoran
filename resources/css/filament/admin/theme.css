@@ -1,0 +1,12 @@
+@import '../../../../vendor/filament/filament/resources/css/theme.css';
+
+
+
+.fi-simple-layout .fi-logo img {
+    height: 10rem !important;
+}
+
+/* Keep navbar logo small */
+.fi-topbar .fi-logo img {
+    height: 2.5rem !important;
+}

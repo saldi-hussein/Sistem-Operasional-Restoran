@@ -1,0 +1,1 @@
+<livewire:item-checkbox-list :record="$record" />

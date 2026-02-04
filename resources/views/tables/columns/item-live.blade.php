@@ -1,0 +1,1 @@
+<livewire:item-list :key="$getRecord()->id" :recordId="$getRecord()->id" />
