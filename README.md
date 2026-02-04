@@ -6,7 +6,7 @@ Framework: Laravel 10
 
 ---
 
-| - | Saldi Hussein [@saldi-hussein](https://github.com/saldi-hussein) | - | Dosen Pembimbing: [Pak Edo Arribe, S.Kom., MMSI] | Reviewer / Observer | |
+| - | Saldi Hussein [@saldi-hussein](https://github.com/saldi-hussein) | - | <b> Dosen Pembimbing: [Pak Edo Arribe, S.Kom., MMSI] </b> | Reviewer / Observer | |
 
 
 
